@@ -10,4 +10,4 @@ If someone needs help:
 * Their location is shown on a map (showing general area)
 * Available helpers can respond to the request
 * Person in need of help can select a person to help them
-* Helper goes and helps them
+* Helper goes and helps them!
